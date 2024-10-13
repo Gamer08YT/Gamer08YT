@@ -57,6 +57,8 @@ src="https://img.shields.io/twitter/follow/NeXusPlayZEU?logo=twitter&style=for-t
 <br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br />
 
+<figure><embed src="https://wakatime.com/share/@JaXnPriVate/db687b5e-edff-4418-a3f7-70a5dbbb8d1e.svg"></embed></figure>
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/jaxnprivate"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
