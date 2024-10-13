@@ -57,7 +57,7 @@ src="https://img.shields.io/twitter/follow/NeXusPlayZEU?logo=twitter&style=for-t
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br />
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JaXnPriVate/d807d0fa-a327-4dd0-975d-b33b1da2925f.png" /></a>
+<img src="https://wakatime.com/share/@JaXnPriVate/d807d0fa-a327-4dd0-975d-b33b1da2925f.png" />
 
 ### Support Me
 
