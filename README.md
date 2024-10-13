@@ -55,8 +55,9 @@ src="https://img.shields.io/twitter/follow/NeXusPlayZEU?logo=twitter&style=for-t
 <div width="100%" align="center"><a href="https://github.com/Gamer08YT/TS5Extractor" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gamer08YT&repo=TS5Extractor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Gamer08YT/TS5Bot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gamer08YT&repo=TS5Bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br /><br />
+<br /><br /><br />
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JaXnPriVate/8bb53563-5f9b-472e-862e-6344fce065d9.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@JaXnPriVate/d807d0fa-a327-4dd0-975d-b33b1da2925f.png" /></a>
 
 ### Support Me
 
