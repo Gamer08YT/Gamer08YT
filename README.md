@@ -60,10 +60,10 @@ src="https://img.shields.io/twitter/follow/NeXusPlayZEU?logo=twitter&style=for-t
 <div>
   <h3> :eyes: Need more stats?</h3>
   <a>
-    <img height="250" align="center" src="https://github-readme-stats-gjjo.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+    <img height="200" align="center" src="https://github-readme-stats-gjjo.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
   </a>
   <a>
-    <img height=250 align="center" src="https://github-readme-stats-gjjo.vercel.app/api/wakatime?username=JaXnPriVate&theme=dark&custom_title=Month%20%Stats&bg_color=30,e96443,904e95&layout=compact&langs_count=10" />
+    <img height=200 align="center" src="https://github-readme-stats-gjjo.vercel.app/api/wakatime?username=JaXnPriVate&theme=dark&custom_title=Month%20%Stats&bg_color=30,e96443,904e95&layout=compact&langs_count=8" />
   </a>
 </div>
     
