@@ -57,12 +57,17 @@ src="https://img.shields.io/twitter/follow/NeXusPlayZEU?logo=twitter&style=for-t
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br />
 
-<a>
-  <img align="center" src="https://github-readme-stats-gjjo.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats-gjjo.vercel.app/api/wakatime?username=JaXnPriVate&theme=dark&custom_title=Month%20%Stats&bg_color=30,e96443,904e95" />
-</a>
+<div>
+  <h3> :eyes: Need more stats?</h3>
+  <a>
+    <img align="center" src="https://github-readme-stats-gjjo.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+  </a>
+  <a>
+  </a>
+</div>
+
+<img height=800 align="center" src="https://github-readme-stats-gjjo.vercel.app/api/wakatime?username=JaXnPriVate&theme=dark&custom_title=Month%20%Stats&bg_color=30,e96443,904e95&layout=compact" />
+    
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/jaxnprivate"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
