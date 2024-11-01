@@ -13,8 +13,8 @@ I have been programming for over 8 years. I started with WPF applications, then 
 * 🧠  I'm learning WebRTC
 
 <a href="https://www.github.com/Gamer08YT" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Gamer08YT?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/NeXusPlayZEU" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/NeXusPlayZEU?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/github/followers/Gamer08YT?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/JaXnPriVate" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/JaXnPriVate?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
