@@ -63,7 +63,7 @@ src="https://img.shields.io/twitter/follow/NeXusPlayZEU?logo=twitter&style=for-t
     <img height="200" align="center" src="https://github-readme-stats-gjjo.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
   </a>
   <a>
-    <img height=200 align="center" src="https://github-readme-stats-gjjo.vercel.app/api/wakatime?username=JaXnPriVate&theme=dark&custom_title=Month%20%Stats&bg_color=30,e96443,904e95&layout=compact&langs_count=8" />
+    <img height=200 align="center" src="https://github-readme-stats-gjjo.vercel.app/api/wakatime?username=JaXnPriVate&theme=dark&custom_title=Monthly%20%Stats&bg_color=30,e96443,904e95&layout=compact&langs_count=8" />
   </a>
 </div>
     
