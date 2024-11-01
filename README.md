@@ -59,7 +59,7 @@ src="https://img.shields.io/twitter/follow/NeXusPlayZEU?logo=twitter&style=for-t
 
 <img src="https://github-readme-stats-gjjo.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
 
-[![WakaTime stats](https://github-readme-stats-gjjo.vercel.app/api/wakatime?username=JaXnPriVate&theme=dark&bg_color=30,e96443,904e95)](https://github.com/Gamer08YT)
+[![Time Stats (Month)](https://github-readme-stats-gjjo.vercel.app/api/wakatime?username=JaXnPriVate&theme=dark&bg_color=30,e96443,904e95)](https://github.com/Gamer08YT)
 
 ### Support Me
 
