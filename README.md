@@ -57,7 +57,7 @@ src="https://img.shields.io/twitter/follow/NeXusPlayZEU?logo=twitter&style=for-t
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br />
 
-<img src="https://wakatime.com/share/@JaXnPriVate/d807d0fa-a327-4dd0-975d-b33b1da2925f.png" />
+<img src="https://github-readme-stats-gjjo.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
 
 ### Support Me
 
