@@ -57,8 +57,14 @@ src="https://img.shields.io/twitter/follow/NeXusPlayZEU?logo=twitter&style=for-t
 <br /><br /><br /><br /><br /><br />
 <br /><br /><br />
 
-<div>
   <h3> :eyes: Need more stats?</h3>
+<div style="
+    display: flex;
+    align-content: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    align-items: center;
+">
   <a>
     <img height="200" align="center" src="https://github-readme-stats-gjjo.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
   </a>
