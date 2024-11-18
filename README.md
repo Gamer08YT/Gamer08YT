@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hobby Developer and Electrician apprentice.
 -------------------------------------------
 
-I have been programming for over 8 years. I started with WPF applications, then with Minecraft plugins. Ohhh yes, the 15€ were really worth it back then. Today I speak a few languages and have also gained some experience in electronics.
+I have been programming for over 10 years. I started with WPF applications, then with Minecraft plugins. Ohhh yes, the 15€ were really worth it back then. Today I speak a few languages and have also gained some experience in electronics.
 
 * 🌍  I'm based in Frankfurt am Main
 * 🖥️  See my portfolio at [My Shop (Byte-Store.DE)](http://byte-store.de)
