@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hobby Developer and Electrician apprentice.
 -------------------------------------------
 
+### Coding skills
+
 I have been programming for over 10 years. I started with WPF applications, then with Minecraft plugins. Ohhh yes, the 15€ were really worth it back then. Today I speak a few languages and have also gained some experience in electronics.
 
 In <b>2016/2017</b> I wrote my first own store system in PHP 7, formerly “Royal-Byte” a small Minecraft plugin and map store.
@@ -36,8 +38,13 @@ I also got into electronics development <b>in 2022</b> and developed my own circ
 
 <img src="https://github.com/user-attachments/assets/63e9d70e-a789-4944-aaf9-d04485f4129b" width="25%">
 
-
 The software was based on BSB-Lan, which was also one of the reasons why I got into Arduino/C++ development.
+
+### Other skills
+
+I learned to use Photoshop at an early age, when I had to design graphics for my online store, and I also gained experience in 3D animation in Cinema 4D.
+
+Today I only use Autodesk Fusion360 to create, model and produce CAD drawings.
 
 * 🌍  I'm based in Frankfurt am Main
 * 🖥️  See my portfolio at [My Shop (Byte-Store.DE)](http://byte-store.de)
