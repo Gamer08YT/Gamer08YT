@@ -6,7 +6,7 @@ Hobby Developer and Electrician apprentice.
 
 I have been programming for over 10 years. I started with WPF applications, then with Minecraft plugins. Ohhh yes, the 15€ were really worth it back then. Today I speak a few languages and have also gained some experience in electronics.
 
-In 2016/2017 I wrote my first own store system in PHP 7, formerly “Royal-Byte” a small Minecraft plugin and map store.
+In <b>2016/2017</b> I wrote my first own store system in PHP 7, formerly “Royal-Byte” a small Minecraft plugin and map store.
 
 In 2018 I started my first hosting interface, there is little documentation about it, there are only [a few pictures on the net](https://sponsor-universe.eu/gallery/image/524-triox/).
 
@@ -14,9 +14,9 @@ In 2018 I started my first hosting interface, there is little documentation abou
 
 The panel ran well, but live updates were only possible via XHR polls.
 
-In 2020, I then decided on a WebSocket solution, but HTTP polling remained and so the user/frontend could choose between the two types.
+<b>In 2020</b>, I then decided on a WebSocket solution, but HTTP polling remained and so the user/frontend could choose between the two types.
 
-The hybrid was difficult to implement in combination with PHP, which is why I translated the entire framework to Java in 2021.
+The hybrid was difficult to implement in combination with PHP, which is why I translated the entire framework to Java <b>in 2021</b>.
 
 The frontend remained the same, I just had to write a system that made it possible to create an HTML website in Java objects.
 
@@ -32,7 +32,7 @@ I learned a lot during this time and got to know numerous frameworks such as [La
 
 ### Electronic skills
 
-I also got into electronics development in 2022 and developed my own circuit board to make old heaters/thermal systems/ instantaneous water heaters smart or bring them into IoT.
+I also got into electronics development <b>in 2022</b> and developed my own circuit board to make old heaters/thermal systems/ instantaneous water heaters smart or bring them into IoT.
 
 <img src="https://github.com/user-attachments/assets/63e9d70e-a789-4944-aaf9-d04485f4129b" width="25%">
 
