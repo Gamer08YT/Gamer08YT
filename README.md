@@ -21,7 +21,7 @@ I have been programming for over 10 years. I started with WPF applications, then
 
 In <b>2016/2017</b> I wrote my first own store system in PHP 7, formerly “Royal-Byte” a small Minecraft plugin and map store.
 
-In 2018 I started my first hosting interface, there is little documentation about it, there are only [a few pictures on the net](https://sponsor-universe.eu/gallery/image/524-triox/).
+In <b>2018</b> I started my first hosting interface, there is little documentation about it, there are only [a few pictures on the net](https://sponsor-universe.eu/gallery/image/524-triox/).
 
 <img src="https://github.com/user-attachments/assets/e5b27e21-35fe-4a06-8b91-45b2413ee5cd" width="25%">
 
