@@ -24,11 +24,11 @@ The new Java framework now provided a driver system which could serialize databa
 
 In addition, the integrated web server, SFTP etc. could be replaced by community drivers. 
 
-After I could not find any useful support in development, I decided to discontinue the framework in 2022 and switched to the JMIX framework which is based on VAADIN and Spring Boot. 
+After I could not find any useful support in development, I decided to discontinue the framework in 2022 and switched to the [JMIX framework](https://www.jmix.io/) which is based on [VAADIN](https://vaadin.com/) and [Spring Boot](https://spring.io/). 
 
 <img src="https://github.com/user-attachments/assets/a3ea8a9a-a7d1-46fc-85cd-d850acce1eb6" width="25%">
 
-I learned a lot during this time and got to know numerous frameworks such as Laravel, Laminas Framework (formerly Zend Framework).
+I learned a lot during this time and got to know numerous frameworks such as [Laravel](https://laravel.com/), [Laminas Framework](https://getlaminas.org/) (formerly [Zend Framework](https://framework.zend.com/)).
 
 ### Electronic skills
 
