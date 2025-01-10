@@ -49,7 +49,7 @@ I also got into electronics development <b>in 2022</b> and developed my own circ
 
 <img src="https://github.com/user-attachments/assets/63e9d70e-a789-4944-aaf9-d04485f4129b" width="25%">
 
-The software was based on BSB-Lan, which was also one of the reasons why I got into Arduino/C++ development.
+The software was based on [BSB-Lan](https://github.com/fredlcore/BSB-LAN), which was also one of the reasons why I got into Arduino/C++ development.
 
 ### Other skills
 
