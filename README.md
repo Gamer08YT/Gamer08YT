@@ -43,6 +43,8 @@ After I could not find any useful support in development, I decided to discontin
 
 I learned a lot during this time and got to know numerous frameworks such as [Laravel](https://laravel.com/), [Laminas Framework](https://getlaminas.org/) (formerly [Zend Framework](https://framework.zend.com/)).
 
+Unfortunately I had many repositories on Jetbrains' Space platform which was discontinued, I missed to clone these repos to GitHub.
+
 ### Electronic skills
 
 I also got into electronics development <b>in 2020</b> and developed my own circuit board to make old heaters/thermal systems/ instantaneous water heaters smart or bring them into IoT.
