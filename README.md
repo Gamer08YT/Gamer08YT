@@ -30,6 +30,7 @@ I learned a lot during this time and got to know numerous frameworks such as Lar
 
 I also got into electronics development in 2022 and developed my own circuit board to make old heaters/thermal systems/ instantaneous water heaters smart or bring them into IoT.
 
+<img src="https://github.com/user-attachments/assets/63e9d70e-a789-4944-aaf9-d04485f4129b" width="10%">
 
 
 The software was based on BSB-Lan, which was also one of the reasons why I got into Arduino/C++ development.
