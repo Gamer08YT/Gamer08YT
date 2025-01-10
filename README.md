@@ -10,6 +10,8 @@ In 2016/2017 I wrote my first own store system in PHP 7, formerly â€œRoyal-Byteâ
 
 In 2018 I started my first hosting interface, there is little documentation about it, there are only [a few pictures on the net](https://sponsor-universe.eu/gallery/image/524-triox/).
 
+<img src="https://github.com/user-attachments/assets/e5b27e21-35fe-4a06-8b91-45b2413ee5cd" width="25%">
+
 The panel ran well, but live updates were only possible via XHR polls.
 
 In 2020, I then decided on a WebSocket solution, but HTTP polling remained and so the user/frontend could choose between the two types.
@@ -24,13 +26,15 @@ In addition, the integrated web server, SFTP etc. could be replaced by community
 
 After I could not find any useful support in development, I decided to discontinue the framework in 2022 and switched to the JMIX framework which is based on VAADIN and Spring Boot. 
 
+<img src="https://github.com/user-attachments/assets/a3ea8a9a-a7d1-46fc-85cd-d850acce1eb6" width="25%">
+
 I learned a lot during this time and got to know numerous frameworks such as Laravel, Laminas Framework (formerly Zend Framework).
 
 ### Electronic skills
 
 I also got into electronics development in 2022 and developed my own circuit board to make old heaters/thermal systems/ instantaneous water heaters smart or bring them into IoT.
 
-<img src="https://github.com/user-attachments/assets/63e9d70e-a789-4944-aaf9-d04485f4129b" width="10%">
+<img src="https://github.com/user-attachments/assets/63e9d70e-a789-4944-aaf9-d04485f4129b" width="25%">
 
 
 The software was based on BSB-Lan, which was also one of the reasons why I got into Arduino/C++ development.
