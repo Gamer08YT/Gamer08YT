@@ -9,7 +9,7 @@ I have been programming for over 10 years. I started with WPF applications, then
 * 🌍  I'm based in Frankfurt am Main
 * 🖥️  See my portfolio at [My Shop (Byte-Store.DE)](http://byte-store.de)
 * ✉️  You can contact me at [jan.heil@byte-store.de](mailto:jan.heil@byte-store.de)
-* 🚀  I'm currently working on [CoffeeSpeak](http://coffeespeak.byte-store.de/) / [Hostinger](https://gamer08yt.github.io/hostinger2024/introduction.html)
+* 🚀  I'm currently working on [CoffeeSpeak](http://coffeespeak.byte-store.de/) / [Hostinger](https://byte-storede.github.io/Hostinger-Docs/hostinger.html)
 * 🧠  I'm learning WebRTC
 
 <a href="https://www.github.com/Gamer08YT" target="_blank" rel="noreferrer"><img
