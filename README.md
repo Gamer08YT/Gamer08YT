@@ -45,7 +45,7 @@ I learned a lot during this time and got to know numerous frameworks such as [La
 
 ### Electronic skills
 
-I also got into electronics development <b>in 2022</b> and developed my own circuit board to make old heaters/thermal systems/ instantaneous water heaters smart or bring them into IoT.
+I also got into electronics development <b>in 2020</b> and developed my own circuit board to make old heaters/thermal systems/ instantaneous water heaters smart or bring them into IoT.
 
 <img src="https://github.com/user-attachments/assets/63e9d70e-a789-4944-aaf9-d04485f4129b" width="25%">
 
