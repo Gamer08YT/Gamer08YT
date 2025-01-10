@@ -4,6 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hobby Developer and Electrician apprentice.
 -------------------------------------------
 
+* 🌍  I'm based in Frankfurt am Main
+* 🖥️  See my portfolio at [My Shop (Byte-Store.DE)](http://byte-store.de)
+* ✉️  You can contact me at [jan.heil@byte-store.de](mailto:jan.heil@byte-store.de)
+* 🚀  I'm currently working on [CoffeeSpeak](http://coffeespeak.byte-store.de/) / [Hostinger](https://byte-storede.github.io/Hostinger-Docs/hostinger.html)
+* 🧠  I'm learning WebRTC
+
+<a href="https://www.github.com/Gamer08YT" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Gamer08YT?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/JaXnPriVate" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/JaXnPriVate?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
 ### Coding skills
 
 I have been programming for over 10 years. I started with WPF applications, then with Minecraft plugins. Ohhh yes, the 15€ were really worth it back then. Today I speak a few languages and have also gained some experience in electronics.
@@ -45,17 +56,6 @@ The software was based on BSB-Lan, which was also one of the reasons why I got i
 I learned to use Photoshop at an early age, when I had to design graphics for my online store, and I also gained experience in 3D animation in Cinema 4D.
 
 Today I only use Autodesk Fusion360 to create, model and produce CAD drawings.
-
-* 🌍  I'm based in Frankfurt am Main
-* 🖥️  See my portfolio at [My Shop (Byte-Store.DE)](http://byte-store.de)
-* ✉️  You can contact me at [jan.heil@byte-store.de](mailto:jan.heil@byte-store.de)
-* 🚀  I'm currently working on [CoffeeSpeak](http://coffeespeak.byte-store.de/) / [Hostinger](https://byte-storede.github.io/Hostinger-Docs/hostinger.html)
-* 🧠  I'm learning WebRTC
-
-<a href="https://www.github.com/Gamer08YT" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Gamer08YT?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/JaXnPriVate" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/JaXnPriVate?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
