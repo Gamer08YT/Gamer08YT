@@ -6,6 +6,34 @@ Hobby Developer and Electrician apprentice.
 
 I have been programming for over 10 years. I started with WPF applications, then with Minecraft plugins. Ohhh yes, the 15€ were really worth it back then. Today I speak a few languages and have also gained some experience in electronics.
 
+In 2016/2017 I wrote my first own store system in PHP 7, formerly “Royal-Byte” a small Minecraft plugin and map store.
+
+In 2018 I started my first hosting interface, there is little documentation about it, there are only [a few pictures on the net](https://sponsor-universe.eu/gallery/image/524-triox/).
+
+The panel ran well, but live updates were only possible via XHR polls.
+
+In 2020, I then decided on a WebSocket solution, but HTTP polling remained and so the user/frontend could choose between the two types.
+
+The hybrid was difficult to implement in combination with PHP, which is why I translated the entire framework to Java in 2021.
+
+The frontend remained the same, I just had to write a system that made it possible to create an HTML website in Java objects.
+
+The new Java framework now provided a driver system which could serialize databases using Java objects and X different database drivers could be installed.
+
+In addition, the integrated web server, SFTP etc. could be replaced by community drivers. 
+
+After I could not find any useful support in development, I decided to discontinue the framework in 2022 and switched to the JMIX framework which is based on VAADIN and Spring Boot. 
+
+I learned a lot during this time and got to know numerous frameworks such as Laravel, Laminas Framework (formerly Zend Framework).
+
+### Electronic skills
+
+I also got into electronics development in 2022 and developed my own circuit board to make old heaters/thermal systems/ instantaneous water heaters smart or bring them into IoT.
+
+
+
+The software was based on BSB-Lan, which was also one of the reasons why I got into Arduino/C++ development.
+
 * 🌍  I'm based in Frankfurt am Main
 * 🖥️  See my portfolio at [My Shop (Byte-Store.DE)](http://byte-store.de)
 * ✉️  You can contact me at [jan.heil@byte-store.de](mailto:jan.heil@byte-store.de)
