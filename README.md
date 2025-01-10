@@ -57,8 +57,17 @@ I learned to use Photoshop at an early age, when I had to design graphics for my
 
 Today I only use Autodesk Fusion360 to create, model and produce CAD drawings.
 
-### Skills
+### Conclusion
 
+Working on the PC is just a hobby for me, I prefer to do things with my hands.
+
+That's why I started training as an electrician <b>in 2021</b>.
+
+There is also work on the PC in electrical installations, so I have already gained experience with industrial control systems such as Logo or Eaton Easy SPS.
+
+I have also been able to learn a lot about building automation systems such as KNX.
+
+### Skills
 
 ## Primary skills
 
