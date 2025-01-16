@@ -53,7 +53,7 @@ I also got into electronics development <b>in 2020</b> and developed my own circ
 
 The software was based on [BSB-Lan](https://github.com/fredlcore/BSB-LAN), which was also one of the reasons why I got into Arduino/C++ development.
 
-Final examination winter 2024/2025
+Final examination winter 2024/2025 in Electronics technician for systems and building technology.
 
 <img src="https://github.com/user-attachments/assets/910d030c-5bf4-4a47-a214-fe1e0f62c290" width="25%">
 
