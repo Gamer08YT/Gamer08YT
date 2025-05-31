@@ -65,7 +65,7 @@ I constructed the heater in Fusion 360 and programmed the managment software in 
 
 <img src="https://github.com/user-attachments/assets/b4004d8c-27b2-43fb-9cff-d3ccf0b5eef4" width="25%">
 
-#### Final examination winter 2024/2025 in Electronics technician for systems and building technology.
+#### Final examination winter 2024/2025 in Electronics technician for systems and building technology. (Guild best)
 
 <img src="https://github.com/user-attachments/assets/910d030c-5bf4-4a47-a214-fe1e0f62c290" width="25%">
 
