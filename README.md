@@ -63,7 +63,7 @@ In the end of 2024 i started a project to controll 6kW heating element, wich con
 
 The control is infinitely variable in % or W.
 
-<img src="https://github.com/user-attachments/assets/d30f1878-7fa5-46fe-9859-1318870ce4b1" width="25%">
+<img src="https://github.com/user-attachments/assets/d30f1878-7fa5-46fe-9859-1318870ce4b1" width="50%">
 
 I constructed the heater in Fusion 360 and programmed the managment software in java.
 
