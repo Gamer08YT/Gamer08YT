@@ -59,6 +59,15 @@ Final examination winter 2024/2025 in Electronics technician for systems and bui
 
 <img src="https://github.com/user-attachments/assets/910d030c-5bf4-4a47-a214-fe1e0f62c290" width="25%">
 
+In the end of 2024 i started a project to controll 6kW heating element, wich consumes energy from my offgrid solar/photovoltaik.
+
+The control is infinitely variable in % or W.
+
+<img src="https://github.com/user-attachments/assets/d30f1878-7fa5-46fe-9859-1318870ce4b1" width="25%">
+
+I constructed the heater in Fusion 360 and programmed the managment software in java.
+
+<img src="https://github.com/user-attachments/assets/b4004d8c-27b2-43fb-9cff-d3ccf0b5eef4" width="25%">
 
 ### Other skills
 
