@@ -159,7 +159,14 @@ Sorted by learning date!
     <img height=200 align="center" src="https://github-readme-stats-gjjo.vercel.app/api/wakatime?username=JaXnPriVate&theme=dark&custom_title=Monthly%20%Stats&bg_color=30,e96443,904e95&layout=compact&langs_count=8" />
   </a>
 </div>
-    
+
+
+### My JMIX Addons
+
+- https://github.com/Gamer08YT/jmix-swagger-ui-addon
+- https://github.com/Gamer08YT/jmix-plugin-addon
+
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/jaxnprivate"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
