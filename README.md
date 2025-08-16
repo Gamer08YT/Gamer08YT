@@ -59,9 +59,7 @@ In the end of 2024 i started a project to controll 6kW heating element, wich con
 
 The control is infinitely variable in % or W.
 
-<a href="https://github.com/Gamer08YT/PVHeating">
-<img src="https://github.com/user-attachments/assets/d30f1878-7fa5-46fe-9859-1318870ce4b1" width="50%">
-</a>
+[<img src="https://github.com/user-attachments/assets/d30f1878-7fa5-46fe-9859-1318870ce4b1" width="50%">](https://github.com/Gamer08YT/PVHeating)
 
 I constructed the heater in Fusion 360 and programmed the managment software in java.
 
