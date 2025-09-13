@@ -131,7 +131,10 @@ Sorted by learning date!
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Gamer08YT"><img src="https://github-readme-stats.vercel.app/api?username=Gamer08YT&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gamer08YT's GitHub stats" /></a>
+<a href="http://www.github.com/Gamer08YT"><img src="https://github-readme-stats.vercel.app/api?username=Gamer08YT&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Gamer08YT's GitHub Stats" /></a>
+<a href="http://www.github.com/Gamer08YT"><img src="https://streak-stats.demolab.com?user=Gamer08YT&theme=radical&hide_border=true" alt="Gamer08YT's GitHub Stats" /></a>
+<a href="http://www.github.com/Gamer08YT"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamer08YT&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Gamer08YT's GitHub Stats" /></a>
+
 
 <b>Top Repositories</b>
 
@@ -152,9 +155,9 @@ Sorted by learning date!
     flex-direction: row;
     align-items: center;
 ">
-  <a>
+  <!--<a>
     <img height="200" align="center" src="https://github-readme-stats-gjjo.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
-  </a>
+  </a>-->
   <a>
     <img height=200 align="center" src="https://github-readme-stats-gjjo.vercel.app/api/wakatime?username=JaXnPriVate&theme=dark&custom_title=Monthly%20%Stats&bg_color=30,e96443,904e95&layout=compact&langs_count=8" />
   </a>
