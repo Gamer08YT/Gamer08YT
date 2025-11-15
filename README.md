@@ -163,6 +163,7 @@ Sorted by learning date!
   </a>
 </div>
 
+<img src="https://space.byte-store.de/stats/unifi/"/>
 
 ### My JMIX Addons
 
