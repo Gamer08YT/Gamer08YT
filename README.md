@@ -163,6 +163,7 @@ Sorted by learning date!
   </a>
 </div>
 
+<h4>My current WAN Stats:</h4>
 <img src="https://space.byte-store.de/stats/unifi/"/>
 
 ### My JMIX Addons
