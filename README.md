@@ -25,6 +25,16 @@ I really like the quality of the products, and I enjoy reverse engineering what 
 
 Also i am happy to assist the manufacturer in the German-speaking region, for example, and occasionally provide Ubiquiti with UniFi Talk SIP templates.
 
+### Current Projects
+
+I am currently working extensively on circuit board design and the development of the corresponding software.
+
+My main project at the moment is building a CNC milling machine that I developed myself.
+
+The machine will be capable of milling, printing, engraving, plotting, laser cutting, and pick and place operations.
+
+
+
 #### I have linked some of my projects:
 
 - https://github.com/Gamer08YT/UniFi-SFP-Wizard 
