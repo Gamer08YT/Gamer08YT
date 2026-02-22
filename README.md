@@ -17,6 +17,20 @@ src="https://img.shields.io/github/followers/Gamer08YT?logo=github&style=for-the
 src="https://img.shields.io/twitter/follow/JaXnPriVate?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+### Fanboy
+
+I am a huge fan of Ubiquiti and their UniFi product line.
+
+I really like the quality of the products, and I enjoy reverse engineering what UI is working on.
+
+Also i am happy to assist the manufacturer in the German-speaking region, for example, and occasionally provide Ubiquiti with UniFi Talk SIP templates.
+
+#### I have linked some of my projects:
+
+- https://github.com/Gamer08YT/UniFi-SFP-Wizard 
+- https://github.com/Gamer08YT/UniFi-Talk-Repo/
+- https://github.com/Gamer08YT/UniFi-Softphone
+
 ### Coding skills
 
 I have been programming for over 10 years. I started with WPF applications, then with Minecraft plugins. Ohhh yes, the 15€ were really worth it back then. Today I speak a few languages and have also gained some experience in electronics.
